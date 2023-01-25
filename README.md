@@ -10,4 +10,6 @@ The user can check how many states of USA remember. The launched program display
 The GUI of this program was created by using Turtle library.
 
 Screenshot:
-<img src="/screenshots/states.png" wight="300px" height="300px">
+<div>
+<img src="/screenshots/states.png" wight="400px" height="400px">
+</div>
